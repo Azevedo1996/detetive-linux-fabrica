@@ -28,6 +28,22 @@ Explicação: O pwd mostra o diretório atual, funcionando como um GPS dentro da
 
 ---
 
+## 🖼️ Screenshots
+
+### Tela inicial
+
+![Tela inicial do Detetive Linux](screenshots/tela-inicial.png)
+
+### Escolha de fase
+
+![Tela de escolha de fase](screenshots/escolha-fase.png)
+
+### Tela de missão
+
+![Tela de missão do jogo](screenshots/missao.png)
+
+---
+
 ## 🎮 Como Funciona o Jogo
 
 O jogador assume o papel de um detetive chamado para resolver incidentes dentro da “Fábrica Linux”.
@@ -148,6 +164,10 @@ jogo_detetive_linux/
 ├── manage.py
 ├── requirements.txt
 ├── README.md
+├── screenshots/
+│   ├── tela-inicial.png
+│   ├── escolha-fase.png
+│   └── missao.png
 ├── detetive_linux/
 │   ├── __init__.py
 │   ├── settings.py
@@ -186,11 +206,11 @@ jogo_detetive_linux/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/jogo-detetive-linux.git
+git clone https://github.com/SEU_USUARIO/detetive-linux-fabrica.git
 ```
 
 ```bash
-cd jogo-detetive-linux
+cd detetive-linux-fabrica
 ```
 
 > Ajuste a URL acima conforme o endereço real do seu repositório no GitHub.
@@ -437,28 +457,6 @@ python manage.py seed_missions
 
 ---
 
-## 📸 Sugestão de Prints para o GitHub
-
-Você pode adicionar imagens do projeto em uma pasta chamada `docs` ou `screenshots`.
-
-Exemplo:
-
-```text
-screenshots/
-├── tela-inicial.png
-├── escolha-fase.png
-├── missao.png
-└── resultado-final.png
-```
-
-E depois incluir no README:
-
-```markdown
-![Tela inicial](screenshots/tela-inicial.png)
-```
-
----
-
 ## 📚 Público-Alvo
 
 Este projeto foi pensado para:
@@ -505,30 +503,6 @@ Sugestões de melhoria:
 - suporte a múltiplas turmas;
 - dashboard de desempenho;
 - autenticação de jogadores.
-
-Para contribuir:
-
-1. Faça um fork do projeto;
-2. Crie uma branch:
-
-```bash
-git checkout -b minha-melhoria
-```
-
-3. Faça suas alterações;
-4. Envie o commit:
-
-```bash
-git commit -m "Minha melhoria"
-```
-
-5. Envie para o repositório:
-
-```bash
-git push origin minha-melhoria
-```
-
-6. Abra um Pull Request.
 
 ---
 
