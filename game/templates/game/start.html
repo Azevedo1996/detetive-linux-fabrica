@@ -1,0 +1,1 @@
+{% extends 'game/base.html' %}{% block title %}Começar | Detetive Linux{% endblock %}{% block content %}<section class="card narrow"><h2>Identificação do Detetive</h2><p>Informe um nome e escolha a fase que será usada na dinâmica.</p><form method="post">{% csrf_token %}{{ form.as_p }}<button class="button" type="submit">Entrar na fábrica</button></form></section>{% endblock %}
