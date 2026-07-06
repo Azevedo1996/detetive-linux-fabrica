@@ -206,7 +206,7 @@ jogo_detetive_linux/
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/detetive-linux-fabrica.git
+git clone https://github.com/Azevedo1996/detetive-linux-fabrica.git
 ```
 
 ```bash
