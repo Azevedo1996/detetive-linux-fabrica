@@ -1,0 +1,52 @@
+# Gabarito rápido
+
+- Fase 1 Missão 1: `pwd`
+- Fase 1 Missão 2: `cd`
+- Fase 1 Missão 3: `/etc`
+- Fase 1 Missão 4: `/var/log`
+- Fase 1 Missão 5: `tail`
+- Fase 1 Missão 6: `touch`
+- Fase 1 Missão 7: `root`
+- Fase 1 Missão 8: `/tmp`
+- Fase 1 Missão 9: `rm`
+- Fase 1 Missão 10: `clear`
+- Fase 2 Missão 1: `useradd`
+- Fase 2 Missão 2: `passwd`
+- Fase 2 Missão 3: `groupadd`
+- Fase 2 Missão 4: `usermod`
+- Fase 2 Missão 5: `id`
+- Fase 2 Missão 6: `groups`
+- Fase 2 Missão 7: `chown`
+- Fase 2 Missão 8: `chmod`
+- Fase 2 Missão 9: `apt update`
+- Fase 2 Missão 10: `dnf install zabbix`
+- Fase 3 Missão 1: `systemctl start`
+- Fase 3 Missão 2: `systemctl status`
+- Fase 3 Missão 3: `systemctl enable`
+- Fase 3 Missão 4: `ps`
+- Fase 3 Missão 5: `top`
+- Fase 3 Missão 6: `kill`
+- Fase 3 Missão 7: `ping`
+- Fase 3 Missão 8: `ip addr`
+- Fase 3 Missão 9: `ssh`
+- Fase 3 Missão 10: `scp`
+- Fase 4 Missão 1: `uptime`
+- Fase 4 Missão 2: `top`
+- Fase 4 Missão 3: `free -h`
+- Fase 4 Missão 4: `df -h`
+- Fase 4 Missão 5: `du -sh`
+- Fase 4 Missão 6: `/var/log`
+- Fase 4 Missão 7: `tail -f`
+- Fase 4 Missão 8: `journalctl -xe`
+- Fase 4 Missão 9: `journalctl -u`
+- Fase 4 Missão 10: `systemctl restart`
+- Fase 5 Missão 1: `pwd`
+- Fase 5 Missão 2: `ls`
+- Fase 5 Missão 3: `cd`
+- Fase 5 Missão 4: `chmod`
+- Fase 5 Missão 5: `systemctl status`
+- Fase 5 Missão 6: `top`
+- Fase 5 Missão 7: `ping`
+- Fase 5 Missão 8: `journalctl -u`
+- Fase 5 Missão 9: `causa raiz`
+- Fase 5 Missão 10: `continuar para detetive linux 2`
