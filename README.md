@@ -259,9 +259,6 @@ Consolidar os aprendizados e encaminhar o participante para o Detetive Linux 2 ‚
 
 ![Tela de miss√£o](screenshots/missao.png)
 
-### Tela final
-
-![Tela final](screenshots/tela-final.png)
 
 ---
 
